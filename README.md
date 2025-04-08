@@ -5,3 +5,4 @@
 <p>Un stage (escenario) representa una ventana en una aplicación de escritorio JavaFx</p>
 <h2>La clase javafx.scene.Scene</h2>
 <p>Dentro del Stage hay una clase que hace de contenedor y representa todo el contendido visual. Esta es la clase Scene, dentro de la cual podemos insertar nodos gráficos del tipo cajas de texto, tablas, botones, etc...</p>
+<h2>Uso de Stage y Scene</h2>
