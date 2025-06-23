@@ -16,9 +16,9 @@ import javafx.stage.Stage;
     el método show() de la clase Stage
 
     4. Para lanzar la app lo hacemos dentro del método main 
-    utilizándo el método launch()
+    a través del método launch()
 */
-// Punto de inicio de la aplicación
+
 public class Main extends Application {
     
     @Override
@@ -27,6 +27,7 @@ public class Main extends Application {
         primaryStage.show();
     }
     
+    // Punto de inicio de la aplicación
     public static void main(String[] args) {
         Application.launch(args);
     }
