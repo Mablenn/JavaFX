@@ -3,6 +3,7 @@ package com.mablen;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
+
 /*
     1. Hereda de la Interfaz Application, así que
     se debe sobreescribir el método start()
