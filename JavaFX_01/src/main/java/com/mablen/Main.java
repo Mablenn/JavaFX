@@ -5,17 +5,13 @@ import javafx.stage.Stage;
 
 
 /*
-    1. Hereda de la Interfaz Application, así que
-    se debe sobreescribir el método start()
-
-    2. El método start(Stage stage) recibe como parámetro
-    un objeto de la clase Stage que es la base de la aplicación.
-
-    3. Dentro del método start() mostramos la ventana con 
-    el método show() de la clase Stage
-
-    4. Para lanzar la app lo hacemos dentro del método main 
-    a través del método launch()
+    La estructura básica de una aplicación JavaFX
+    está compuesta por los siguientes elementos:
+    
+    -Clase Application
+    -Método start(Stage stage)
+    -Clase Stage
+    -Clase Scene
 */
 
 public class Main extends Application {
