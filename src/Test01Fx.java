@@ -21,7 +21,7 @@ public class Test01FX extends Application {
 	    }
 	
 	// Lanza la aplicación
-	//El método estático launch(args) es el encargado de lanzar la aplicación
+	//El método estático launch(args) se encarga de lanzar la aplicación
 	public static void main(String[] args) {
 		launch(args);
   }
