@@ -39,7 +39,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>com.mablen.JavaFX-curso01.Main</mainClass>
+                    <mainClass>com.mablen.JavaFX_01.Main</mainClass>
                 </configuration>
                 <executions>
                     <execution>
