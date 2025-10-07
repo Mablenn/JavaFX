@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 */
 
 public class Main extends Application {
-    
+    //Sobreescribir método start()
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Ventana JavaFX");
